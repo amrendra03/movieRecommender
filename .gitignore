@@ -1,0 +1,12 @@
+recommend_python/venu
+.ipynb_checkpoints
+movie_dict.pkl
+movies.pkl
+similarity.pkl
+recommend_python/movie_dict.pkl
+recommend_python/movies.pkl
+recommend_python/similarity.pkl
+recommend_python/.idea
+
+
+
